@@ -1,0 +1,13 @@
+uuid: 34f94448-641d-4afe-8142-5fdb62b64c2e
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: mHm4sWJ08FHoKqr1adhSfzOYEmZiFUASph6N2cxrz40
+name: 'Alter Car'
+type: alter_car
+description: 'Use <em>alter_car</em> to get current user car count.'
+help: null
+new_revision: false
+preview_mode: 1
+display_submitted: false
