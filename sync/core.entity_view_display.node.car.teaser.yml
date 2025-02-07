@@ -7,7 +7,6 @@ dependencies:
     - field.field.node.car.field_car_image
     - field.field.node.car.field_color
     - field.field.node.car.field_mark
-    - field.field.node.car.field_owner
     - node.type.car
   module:
     - user
@@ -25,4 +24,3 @@ hidden:
   field_car_image: true
   field_color: true
   field_mark: true
-  field_owner: true

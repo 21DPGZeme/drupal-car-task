@@ -1,6 +1,6 @@
 uuid: 1e5e65c2-d825-45fc-8890-4874cb7cc0cb
 langcode: en
-status: false
+status: true
 dependencies:
   module:
     - system
@@ -11,7 +11,7 @@ _core:
 id: olivero_content
 theme: olivero
 region: content
-weight: 0
+weight: -7
 provider: null
 plugin: system_main_block
 settings:
